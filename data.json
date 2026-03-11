@@ -1,0 +1,11 @@
+{
+  "timestampMod": 5,
+  "lang": "zh-TW",
+  "country": "TW",
+  "autoTranslateToTraditionalChinese": true,
+  "enableYtDlpFallback": true,
+  "ytDlpPath": "E:\\My_Github\\My_Obsidian\\.obsidian\\plugins\\ytranscript\\yt-dlp.exe",
+  "leafUrls": [
+    "https://www.youtube.com/watch?v=9gPTuJZRHJk"
+  ]
+}
