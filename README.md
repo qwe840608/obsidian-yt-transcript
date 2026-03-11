@@ -8,12 +8,10 @@
 - 字幕獲取失敗時，使用yt-dlp 獲取字幕
 
 # 安裝方法
-1. 到你的obsidian plugins資料夾
-2. 右鍵開啟CMD或PowerShell
-3. 克隆此倉庫到Plugins資料夾內
-``` cmd / powershell
-git clone https://github.com/qwe840608/obsidian-yt-transcript.git
-```
+1. 下載 [ytranscript_ruide 1.3.0.1.zip](https://github.com/qwe840608/obsidian-yt-transcript/releases/download/v1.3.0.1/ytranscript_ruide.1.3.0.1.zip)
+2. 解壓縮到你的obsidian plugins資料夾
+3. 重啟Obsidian
+
 ## 截圖
 
 ![](截圖.png)
