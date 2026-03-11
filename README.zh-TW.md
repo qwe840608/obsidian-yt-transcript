@@ -14,6 +14,11 @@
 ``` cmd / powershell
 git clone https://github.com/qwe840608/obsidian-yt-transcript.git
 ```
+## 截圖
+
+![](截圖.png)
+
+
 
 # 使用方法
 
