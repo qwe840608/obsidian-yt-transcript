@@ -1,3 +1,6 @@
+[中文說明](README.zh-TW.md)
+
+
 # Usage
 
 ## New: Insert YouTube transcript directly into your notes (Mobile-Friendly)
